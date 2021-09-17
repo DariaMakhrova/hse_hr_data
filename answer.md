@@ -12,5 +12,8 @@
 Ссылка на дек: https://docs.google.com/spreadsheets/d/15MqtnQFcLg1sCkUSNNy-LuO6OqMLe14qWTUvdK72uXQ/edit?usp=sharing 
 Шансы на выживание:
 Леонардо Ди Каприо - Мужчина, едет в крошечной каюте 3 класса - 96,81%
+
 Кейт Уинслет - Женщина, едет в комфортабельной каюте 1 класса - 13,54%
+
 Query запрос - =QUERY(train!A1:L892;"SELECT count(B) where B=1 and E= 'female'")
+Результат - 233
